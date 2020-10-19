@@ -1,0 +1,3001 @@
+ApplicationNumber,Graduate,Residence,MaritalStatus
+10200,Yes,Urban,Married
+10201,No,Urban,Married
+10202,No,Semi Urban,Married
+10203,No,Urban,Married
+10204,No,Rural,Married
+10205,No,Urban,Married
+10206,No,Semi Urban,Married
+10207,No,Urban,Married
+10208,No,Rural,Married
+10209,No,Rural,Single
+10210,No,Rural,Single
+10211,No,Urban,Married
+10212,Yes,Rural,Married
+10213,No,Rural,Single
+10214,No,Rural,Married
+10215,No,Semi Urban,Married
+10216,No,Semi Urban,Married
+10217,No,Rural,Married
+10218,No,Rural,Married
+10219,No,Rural,Married
+10220,Yes,Rural,Married
+10221,No,Semi Urban,Single
+10222,No,Rural,Married
+10223,No,Urban,Married
+10224,No,Rural,Married
+10225,Yes,Urban,Single
+10226,No,Rural,Married
+10227,No,Semi Urban,Married
+10228,No,Rural,Single
+10229,No,Semi Urban,Single
+10230,No,Rural,Married
+10231,No,Urban,Married
+10232,No,Rural,Married
+10233,No,Rural,Married
+10234,No,Urban,Single
+10235,Yes,Semi Urban,Married
+10236,Yes,Urban,Married
+10237,No,Urban,Single
+10238,Yes,Urban,Married
+10239,No,Urban,Single
+10240,No,Rural,Single
+10241,No,Urban,Single
+10242,No,Urban,Married
+10243,No,Rural,Married
+10244,No,Semi Urban,Single
+10245,No,Rural,Married
+10246,No,Urban,Single
+10247,No,Urban,Single
+10248,Yes,Rural,Single
+10249,Yes,Rural,Married
+10250,No,Urban,Single
+10251,No,Urban,Married
+10252,Yes,Semi Urban,Married
+10253,No,Urban,Married
+10254,No,Semi Urban,Single
+10255,No,Rural,Single
+10256,No,Rural,Married
+10257,No,Rural,Married
+10258,No,Rural,Single
+10259,No,Rural,Married
+10260,No,Rural,Married
+10261,No,Urban,Married
+10262,Yes,Urban,Single
+10263,Yes,Rural,Married
+10264,No,Urban,Married
+10265,No,Urban,Married
+10266,Yes,Semi Urban,Married
+10267,No,Semi Urban,Married
+10268,No,Urban,Married
+10269,No,Rural,Married
+10270,No,Rural,Married
+10271,No,Urban,Married
+10272,No,Rural,Married
+10273,No,Rural,Single
+10274,No,Urban,Married
+10275,Yes,Urban,Married
+10276,No,Semi Urban,Single
+10277,Yes,Rural,Married
+10278,No,Urban,Married
+10279,No,Rural,Single
+10280,No,Urban,Married
+10281,Yes,Rural,Married
+10282,Yes,Semi Urban,Single
+10283,No,Rural,Married
+10284,No,Semi Urban,Single
+10285,No,Rural,Single
+10286,Yes,Rural,Single
+10287,No,Semi Urban,Single
+10288,No,Semi Urban,Married
+10289,Yes,Rural,Married
+10290,No,Urban,Married
+10291,No,Urban,Married
+10292,No,Semi Urban,Single
+10293,No,Rural,Married
+10294,No,Urban,Married
+10295,No,Rural,Married
+10296,No,Semi Urban,Single
+10297,No,Semi Urban,Married
+10298,No,Urban,Married
+10299,No,Urban,Single
+10300,Yes,Rural,Single
+10301,Yes,Semi Urban,Married
+10302,No,Urban,Married
+10303,Yes,Rural,Married
+10304,Yes,Semi Urban,Married
+10305,Yes,Rural,Married
+10306,No,Rural,Single
+10307,Yes,Rural,Married
+10308,No,Semi Urban,Married
+10309,No,Semi Urban,Single
+10310,No,Rural,Single
+10311,No,Semi Urban,Married
+10312,No,Rural,Married
+10313,Yes,Urban,Married
+10314,No,Rural,Married
+10315,No,Urban,Single
+10316,No,Urban,Single
+10317,No,Rural,Married
+10318,No,Rural,Single
+10319,No,Rural,Married
+10320,No,Urban,Married
+10321,Yes,Rural,Single
+10322,No,Rural,Single
+10323,No,Rural,Single
+10324,No,Urban,Single
+10325,No,Urban,Single
+10326,No,Rural,Married
+10327,No,Urban,Married
+10328,No,Rural,Married
+10329,No,Rural,Married
+10330,No,Urban,Married
+10331,No,Rural,Married
+10332,Yes,Rural,Married
+10333,No,Rural,Single
+10334,No,Urban,Single
+10335,No,Urban,Married
+10336,No,Urban,Married
+10337,Yes,Urban,Married
+10338,No,Urban,Single
+10339,No,Urban,Married
+10340,Yes,Urban,Married
+10341,No,Rural,Married
+10342,No,Semi Urban,Married
+10343,No,Rural,Married
+10344,No,Urban,Married
+10345,Yes,Semi Urban,Married
+10346,Yes,Rural,Married
+10347,No,Rural,Married
+10348,No,Rural,Married
+10349,No,Rural,Married
+10350,No,Semi Urban,Married
+10351,No,Urban,Single
+10352,No,Rural,Married
+10353,No,Urban,Single
+10354,Yes,Urban,Married
+10355,No,Urban,Married
+10356,Yes,Semi Urban,Married
+10357,No,Semi Urban,Married
+10358,No,Urban,Married
+10359,Yes,Rural,Single
+10360,Yes,Semi Urban,Married
+10361,Yes,Urban,Married
+10362,No,Rural,Married
+10363,No,Semi Urban,Married
+10364,No,Urban,Single
+10365,No,Semi Urban,Married
+10366,No,Semi Urban,Single
+10367,No,Rural,Married
+10368,No,Urban,Married
+10369,No,Semi Urban,Single
+10370,No,Rural,Married
+10371,Yes,Urban,Married
+10372,No,Rural,Married
+10373,No,Rural,Married
+10374,No,Urban,Single
+10375,No,Urban,Single
+10376,No,Rural,Married
+10377,No,Rural,Married
+10378,No,Semi Urban,Single
+10379,No,Urban,Married
+10380,No,Rural,Married
+10381,No,Rural,Married
+10382,No,Rural,Single
+10383,No,Rural,Married
+10384,No,Urban,Married
+10385,No,Rural,Married
+10386,No,Semi Urban,Single
+10387,Yes,Urban,Married
+10388,No,Rural,Single
+10389,Yes,Rural,Married
+10390,No,Urban,Married
+10391,No,Semi Urban,Married
+10392,No,Rural,Married
+10393,Yes,Urban,Married
+10394,No,Urban,Married
+10395,No,Rural,Single
+10396,Yes,Semi Urban,Married
+10397,No,Rural,Single
+10398,No,Rural,Married
+10399,Yes,Rural,Married
+10400,No,Rural,Single
+10401,No,Semi Urban,Married
+10402,No,Rural,Married
+10403,No,Urban,Married
+10404,No,Rural,Single
+10405,Yes,Urban,Married
+10406,No,Rural,Married
+10407,No,Urban,Married
+10408,Yes,Semi Urban,Married
+10409,No,Semi Urban,Married
+10410,No,Semi Urban,Married
+10411,No,Urban,Married
+10412,No,Urban,Married
+10413,No,Urban,Married
+10414,No,Rural,Married
+10415,Yes,Urban,Married
+10416,No,Rural,Married
+10417,No,Urban,Married
+10418,No,Rural,Married
+10419,Yes,Rural,Single
+10420,No,Rural,Single
+10421,No,Rural,Married
+10422,No,Rural,Single
+10423,Yes,Urban,Single
+10424,No,Rural,Married
+10425,No,Urban,Married
+10426,Yes,Semi Urban,Married
+10427,No,Urban,Married
+10428,No,Semi Urban,Married
+10429,Yes,Urban,Single
+10430,No,Rural,Married
+10431,No,Rural,Married
+10432,No,Rural,Married
+10433,No,Rural,Single
+10434,No,Urban,Single
+10435,Yes,Urban,Married
+10436,No,Urban,Single
+10437,Yes,Semi Urban,Married
+10438,Yes,Urban,Married
+10439,No,Semi Urban,Married
+10440,No,Rural,Married
+10441,No,Rural,Married
+10442,Yes,Semi Urban,Married
+10443,No,Urban,Married
+10444,No,Rural,Married
+10445,No,Urban,Single
+10446,No,Rural,Single
+10447,No,Rural,Married
+10448,No,Rural,Married
+10449,No,Rural,Married
+10450,Yes,Urban,Single
+10451,No,Semi Urban,Single
+10452,No,Urban,Married
+10453,No,Urban,Married
+10454,No,Urban,Married
+10455,No,Rural,Married
+10456,No,Rural,Married
+10457,Yes,Semi Urban,Married
+10458,No,Urban,Single
+10459,No,Rural,Married
+10460,No,Urban,Married
+10461,No,Rural,Married
+10462,No,Urban,Married
+10463,No,Urban,Married
+10464,Yes,Rural,Married
+10465,No,Rural,Married
+10466,No,Semi Urban,Married
+10467,No,Semi Urban,Single
+10468,No,Urban,Married
+10469,No,Urban,Single
+10470,No,Urban,Married
+10471,Yes,Semi Urban,Married
+10472,Yes,Semi Urban,Married
+10473,Yes,Semi Urban,Married
+10474,No,Rural,Single
+10475,No,Semi Urban,Married
+10476,Yes,Urban,Married
+10477,No,Rural,Single
+10478,No,Rural,Married
+10479,No,Semi Urban,Married
+10480,No,Rural,Single
+10481,No,Rural,Married
+10482,No,Rural,Married
+10483,No,Semi Urban,Married
+10484,No,Urban,Married
+10485,No,Semi Urban,Married
+10486,No,Rural,Married
+10487,No,Semi Urban,Married
+10488,No,Urban,Married
+10489,Yes,Rural,Single
+10490,No,Rural,Single
+10491,No,Rural,Single
+10492,Yes,Semi Urban,Married
+10493,No,Rural,Married
+10494,No,Rural,Married
+10495,No,Semi Urban,Married
+10496,Yes,Urban,Married
+10497,No,Semi Urban,Married
+10498,No,Rural,Single
+10499,No,Rural,Single
+10500,No,Rural,Married
+10501,No,Urban,Single
+10502,No,Rural,Married
+10503,No,Rural,Married
+10504,No,Rural,Married
+10505,No,Urban,Married
+10506,No,Rural,Married
+10507,No,Semi Urban,Married
+10508,No,Rural,Married
+10509,Yes,Rural,Married
+10510,No,Urban,Single
+10511,Yes,Rural,Married
+10512,No,Urban,Married
+10513,No,Semi Urban,Married
+10514,Yes,Semi Urban,Single
+10515,No,Urban,Married
+10516,No,Rural,Married
+10517,Yes,Urban,Married
+10518,Yes,Rural,Married
+10519,No,Rural,Married
+10520,No,Rural,Single
+10521,No,Urban,Married
+10522,No,Urban,Single
+10523,No,Urban,Married
+10524,No,Urban,Single
+10525,No,Rural,Married
+10526,No,Rural,Single
+10527,No,Urban,Married
+10528,Yes,Semi Urban,Married
+10529,Yes,Semi Urban,Married
+10530,Yes,Rural,Married
+10531,No,Rural,Married
+10532,No,Rural,Single
+10533,No,Urban,Married
+10534,No,Urban,Married
+10535,No,Semi Urban,Single
+10536,No,Rural,Married
+10537,No,Rural,Married
+10538,No,Rural,Married
+10539,No,Urban,Married
+10540,No,Rural,Married
+10541,No,Rural,Single
+10542,No,Rural,Married
+10543,No,Semi Urban,Married
+10544,Yes,Rural,Married
+10545,No,Rural,Married
+10546,No,Urban,Single
+10547,No,Rural,Single
+10548,No,Semi Urban,Married
+10549,Yes,Semi Urban,Single
+10550,No,Semi Urban,Married
+10551,No,Urban,Married
+10552,No,Semi Urban,Married
+10553,No,Semi Urban,Married
+10554,No,Semi Urban,Single
+10555,No,Semi Urban,Single
+10556,No,Urban,Single
+10557,No,Rural,Single
+10558,Yes,Rural,Married
+10559,No,Semi Urban,Single
+10560,No,Urban,Married
+10561,Yes,Rural,Married
+10562,No,Urban,Married
+10563,Yes,Rural,Married
+10564,No,Urban,Married
+10565,No,Rural,Married
+10566,No,Rural,Married
+10567,No,Urban,Married
+10568,No,Urban,Married
+10569,No,Rural,Married
+10570,No,Urban,Married
+10571,No,Urban,Single
+10572,No,Semi Urban,Married
+10573,No,Urban,Single
+10574,No,Rural,Married
+10575,Yes,Urban,Married
+10576,No,Urban,Married
+10577,No,Urban,Married
+10578,Yes,Urban,Married
+10579,No,Urban,Single
+10580,No,Rural,Married
+10581,No,Urban,Married
+10582,No,Rural,Single
+10583,No,Urban,Married
+10584,No,Urban,Married
+10585,No,Urban,Married
+10586,No,Urban,Married
+10587,Yes,Urban,Married
+10588,No,Semi Urban,Married
+10589,No,Rural,Married
+10590,No,Urban,Married
+10591,No,Urban,Married
+10592,Yes,Semi Urban,Married
+10593,Yes,Rural,Married
+10594,No,Rural,Married
+10595,No,Rural,Married
+10596,Yes,Urban,Married
+10597,Yes,Rural,Married
+10598,No,Semi Urban,Single
+10599,No,Urban,Married
+10600,No,Rural,Married
+10601,No,Semi Urban,Married
+10602,No,Semi Urban,Married
+10603,No,Rural,Married
+10604,No,Rural,Single
+10605,Yes,Rural,Single
+10606,No,Rural,Married
+10607,No,Urban,Married
+10608,No,Rural,Married
+10609,No,Semi Urban,Married
+10610,No,Rural,Married
+10611,No,Rural,Married
+10612,No,Urban,Married
+10613,No,Rural,Married
+10614,No,Semi Urban,Married
+10615,No,Urban,Married
+10616,No,Urban,Married
+10617,No,Urban,Single
+10618,No,Urban,Married
+10619,No,Rural,Married
+10620,No,Urban,Married
+10621,No,Urban,Single
+10622,No,Urban,Married
+10623,Yes,Rural,Married
+10624,No,Rural,Single
+10625,No,Urban,Single
+10626,No,Rural,Married
+10627,No,Semi Urban,Married
+10628,No,Urban,Married
+10629,No,Rural,Married
+10630,No,Urban,Married
+10631,No,Urban,Married
+10632,Yes,Semi Urban,Married
+10633,No,Semi Urban,Married
+10634,No,Urban,Married
+10635,No,Urban,Single
+10636,No,Semi Urban,Married
+10637,Yes,Urban,Married
+10638,No,Rural,Single
+10639,No,Rural,Single
+10640,No,Urban,Married
+10641,No,Semi Urban,Married
+10642,No,Urban,Married
+10643,No,Urban,Married
+10644,No,Urban,Single
+10645,No,Rural,Married
+10646,Yes,Rural,Married
+10647,No,Urban,Single
+10648,Yes,Rural,Married
+10649,No,Rural,Married
+10650,No,Semi Urban,Married
+10651,No,Urban,Married
+10652,No,Urban,Married
+10653,No,Rural,Married
+10654,Yes,Urban,Married
+10655,No,Semi Urban,Single
+10656,No,Rural,Married
+10657,Yes,Rural,Married
+10658,No,Urban,Married
+10659,Yes,Rural,Married
+10660,No,Urban,Married
+10661,Yes,Urban,Single
+10662,No,Rural,Married
+10663,Yes,Rural,Married
+10664,No,Urban,Married
+10665,No,Rural,Married
+10666,No,Urban,Married
+10667,No,Semi Urban,Married
+10668,No,Urban,Single
+10669,No,Urban,Married
+10670,Yes,Rural,Single
+10671,No,Urban,Married
+10672,No,Urban,Married
+10673,No,Rural,Married
+10674,No,Rural,Married
+10675,No,Urban,Single
+10676,No,Urban,Single
+10677,Yes,Rural,Single
+10678,No,Urban,Married
+10679,No,Rural,Married
+10680,No,Rural,Married
+10681,No,Semi Urban,Married
+10682,No,Rural,Single
+10683,Yes,Rural,Married
+10684,No,Rural,Married
+10685,No,Urban,Married
+10686,No,Urban,Married
+10687,Yes,Rural,Single
+10688,No,Rural,Single
+10689,No,Semi Urban,Married
+10690,Yes,Semi Urban,Married
+10691,No,Urban,Married
+10692,No,Urban,Single
+10693,No,Urban,Married
+10694,No,Urban,Married
+10695,No,Semi Urban,Married
+10696,No,Urban,Married
+10697,No,Urban,Single
+10698,Yes,Urban,Married
+10699,No,Urban,Single
+10700,No,Urban,Married
+10701,No,Semi Urban,Single
+10702,No,Semi Urban,Single
+10703,No,Urban,Married
+10704,No,Urban,Single
+10705,Yes,Semi Urban,Single
+10706,No,Urban,Married
+10707,No,Semi Urban,Married
+10708,No,Urban,Married
+10709,No,Urban,Married
+10710,No,Urban,Married
+10711,No,Rural,Single
+10712,Yes,Rural,Married
+10713,No,Semi Urban,Married
+10714,Yes,Urban,Single
+10715,No,Rural,Married
+10716,No,Semi Urban,Single
+10717,No,Urban,Married
+10718,No,Semi Urban,Single
+10719,No,Urban,Married
+10720,No,Rural,Married
+10721,Yes,Rural,Married
+10722,No,Semi Urban,Single
+10723,No,Semi Urban,Single
+10724,No,Urban,Married
+10725,Yes,Urban,Single
+10726,Yes,Rural,Married
+10727,No,Rural,Single
+10728,No,Rural,Married
+10729,No,Urban,Married
+10730,No,Rural,Married
+10731,No,Rural,Married
+10732,No,Semi Urban,Single
+10733,No,Urban,Married
+10734,No,Urban,Single
+10735,Yes,Rural,Married
+10736,Yes,Urban,Married
+10737,No,Urban,Married
+10738,No,Rural,Married
+10739,Yes,Rural,Married
+10740,Yes,Semi Urban,Single
+10741,No,Urban,Married
+10742,Yes,Semi Urban,Single
+10743,No,Urban,Married
+10744,No,Urban,Married
+10745,No,Urban,Single
+10746,No,Urban,Married
+10747,No,Rural,Married
+10748,No,Rural,Married
+10749,No,Rural,Married
+10750,No,Semi Urban,Married
+10751,No,Urban,Married
+10752,No,Semi Urban,Married
+10753,No,Urban,Single
+10754,No,Urban,Married
+10755,Yes,Urban,Single
+10756,No,Rural,Married
+10757,Yes,Rural,Single
+10758,No,Rural,Married
+10759,No,Rural,Married
+10760,Yes,Urban,Married
+10761,No,Rural,Married
+10762,Yes,Rural,Married
+10763,No,Rural,Single
+10764,No,Urban,Married
+10765,No,Semi Urban,Married
+10766,No,Urban,Single
+10767,No,Urban,Married
+10768,No,Urban,Married
+10769,Yes,Semi Urban,Married
+10770,No,Rural,Married
+10771,No,Urban,Married
+10772,Yes,Rural,Single
+10773,No,Rural,Single
+10774,No,Urban,Married
+10775,No,Urban,Married
+10776,No,Semi Urban,Married
+10777,No,Semi Urban,Married
+10778,Yes,Rural,Married
+10779,Yes,Urban,Married
+10780,No,Rural,Married
+10781,No,Urban,Single
+10782,No,Semi Urban,Married
+10783,Yes,Semi Urban,Married
+10784,No,Semi Urban,Married
+10785,No,Rural,Married
+10786,No,Rural,Married
+10787,No,Rural,Married
+10788,Yes,Rural,Married
+10789,No,Rural,Married
+10790,No,Semi Urban,Single
+10791,No,Rural,Married
+10792,No,Urban,Married
+10793,No,Urban,Single
+10794,No,Semi Urban,Married
+10795,No,Semi Urban,Married
+10796,Yes,Rural,Married
+10797,No,Urban,Single
+10798,Yes,Urban,Married
+10799,Yes,Rural,Married
+10800,Yes,Urban,Married
+10801,No,Urban,Married
+10802,No,Rural,Married
+10803,No,Urban,Married
+10804,No,Semi Urban,Married
+10805,No,Urban,Married
+10806,Yes,Urban,Single
+10807,No,Rural,Married
+10808,Yes,Semi Urban,Married
+10809,No,Urban,Married
+10810,No,Urban,Married
+10811,No,Urban,Married
+10812,No,Semi Urban,Married
+10813,No,Urban,Married
+10814,No,Urban,Married
+10815,No,Rural,Single
+10816,No,Urban,Married
+10817,No,Urban,Married
+10818,No,Semi Urban,Married
+10819,No,Urban,Single
+10820,No,Rural,Married
+10821,Yes,Urban,Single
+10822,Yes,Urban,Single
+10823,Yes,Rural,Single
+10824,No,Urban,Married
+10825,Yes,Rural,Married
+10826,No,Urban,Married
+10827,No,Semi Urban,Married
+10828,No,Urban,Married
+10829,No,Semi Urban,Married
+10830,No,Urban,Married
+10831,No,Urban,Married
+10832,No,Rural,Married
+10833,No,Rural,Married
+10834,No,Semi Urban,Married
+10835,No,Urban,Single
+10836,No,Urban,Married
+10837,No,Urban,Married
+10838,Yes,Semi Urban,Married
+10839,No,Semi Urban,Single
+10840,No,Rural,Single
+10841,No,Urban,Married
+10842,No,Semi Urban,Married
+10843,No,Rural,Married
+10844,No,Semi Urban,Married
+10845,No,Rural,Married
+10846,No,Rural,Married
+10847,No,Semi Urban,Married
+10848,No,Urban,Single
+10849,No,Rural,Married
+10850,No,Rural,Single
+10851,No,Rural,Married
+10852,Yes,Urban,Married
+10853,Yes,Urban,Single
+10854,No,Rural,Married
+10855,No,Urban,Married
+10856,No,Urban,Married
+10857,No,Rural,Married
+10858,No,Semi Urban,Single
+10859,No,Rural,Married
+10860,No,Rural,Married
+10861,No,Rural,Single
+10862,No,Rural,Married
+10863,No,Urban,Single
+10864,No,Urban,Single
+10865,No,Urban,Single
+10866,Yes,Urban,Married
+10867,No,Urban,Married
+10868,No,Rural,Single
+10869,Yes,Rural,Married
+10870,No,Urban,Married
+10871,No,Urban,Married
+10872,Yes,Urban,Married
+10873,No,Urban,Married
+10874,No,Urban,Single
+10875,No,Semi Urban,Married
+10876,Yes,Urban,Married
+10877,No,Urban,Married
+10878,No,Rural,Married
+10879,No,Rural,Married
+10880,No,Semi Urban,Married
+10881,No,Rural,Married
+10882,No,Rural,Married
+10883,No,Rural,Single
+10884,Yes,Urban,Married
+10885,Yes,Rural,Single
+10886,Yes,Urban,Married
+10887,No,Urban,Single
+10888,No,Rural,Married
+10889,Yes,Semi Urban,Married
+10890,Yes,Rural,Married
+10891,No,Urban,Married
+10892,No,Urban,Single
+10893,No,Semi Urban,Single
+10894,No,Rural,Single
+10895,No,Semi Urban,Married
+10896,No,Semi Urban,Married
+10897,No,Semi Urban,Married
+10898,No,Rural,Single
+10899,No,Rural,Married
+10900,No,Semi Urban,Married
+10901,No,Semi Urban,Married
+10902,Yes,Urban,Married
+10903,Yes,Urban,Married
+10904,No,Urban,Married
+10905,No,Rural,Married
+10906,No,Urban,Single
+10907,No,Rural,Married
+10908,No,Rural,Married
+10909,No,Rural,Single
+10910,No,Rural,Single
+10911,Yes,Urban,Married
+10912,Yes,Rural,Married
+10913,No,Rural,Married
+10914,No,Rural,Married
+10915,Yes,Urban,Married
+10916,No,Rural,Single
+10917,No,Rural,Married
+10918,No,Rural,Married
+10919,No,Rural,Married
+10920,No,Rural,Married
+10921,Yes,Urban,Married
+10922,No,Rural,Married
+10923,Yes,Rural,Married
+10924,No,Urban,Married
+10925,No,Semi Urban,Single
+10926,No,Urban,Married
+10927,No,Semi Urban,Married
+10928,No,Semi Urban,Married
+10929,Yes,Rural,Married
+10930,No,Rural,Married
+10931,No,Rural,Married
+10932,No,Rural,Married
+10933,No,Rural,Married
+10934,No,Urban,Single
+10935,No,Semi Urban,Married
+10936,No,Urban,Single
+10937,Yes,Urban,Married
+10938,Yes,Semi Urban,Married
+10939,No,Semi Urban,Single
+10940,No,Rural,Single
+10941,No,Rural,Single
+10942,No,Rural,Married
+10943,No,Rural,Married
+10944,No,Urban,Married
+10945,No,Urban,Married
+10946,No,Semi Urban,Married
+10947,No,Urban,Married
+10948,No,Rural,Single
+10949,No,Rural,Married
+10950,No,Rural,Married
+10951,No,Rural,Married
+10952,No,Urban,Married
+10953,No,Rural,Married
+10954,No,Urban,Single
+10955,Yes,Urban,Married
+10956,Yes,Rural,Single
+10957,No,Rural,Married
+10958,No,Urban,Married
+10959,No,Urban,Married
+10960,No,Rural,Married
+10961,No,Rural,Single
+10962,No,Urban,Married
+10963,No,Rural,Single
+10964,No,Rural,Married
+10965,Yes,Urban,Married
+10966,No,Rural,Married
+10967,Yes,Rural,Married
+10968,No,Urban,Married
+10969,No,Rural,Married
+10970,No,Rural,Married
+10971,No,Semi Urban,Married
+10972,Yes,Urban,Married
+10973,No,Rural,Married
+10974,No,Rural,Single
+10975,No,Rural,Married
+10976,No,Semi Urban,Single
+10977,No,Rural,Married
+10978,No,Urban,Married
+10979,No,Urban,Single
+10980,No,Rural,Married
+10981,No,Rural,Single
+10982,No,Urban,Married
+10983,No,Rural,Married
+10984,No,Urban,Married
+10985,No,Rural,Single
+10986,Yes,Semi Urban,Married
+10987,Yes,Urban,Married
+10988,No,Rural,Married
+10989,No,Urban,Married
+10990,No,Rural,Married
+10991,No,Urban,Married
+10992,Yes,Urban,Married
+10993,No,Rural,Single
+10994,No,Urban,Married
+10995,No,Rural,Married
+10996,Yes,Semi Urban,Married
+10997,No,Rural,Married
+10998,No,Rural,Single
+10999,Yes,Semi Urban,Married
+11000,No,Rural,Married
+11001,No,Rural,Single
+11002,No,Rural,Single
+11003,No,Urban,Single
+11004,No,Urban,Married
+11005,No,Semi Urban,Married
+11006,No,Semi Urban,Single
+11007,No,Urban,Married
+11008,No,Rural,Married
+11009,No,Urban,Married
+11010,No,Rural,Married
+11011,No,Urban,Married
+11012,No,Rural,Married
+11013,No,Rural,Married
+11014,No,Urban,Single
+11015,No,Rural,Married
+11016,No,Rural,Married
+11017,No,Semi Urban,Single
+11018,No,Rural,Single
+11019,No,Rural,Married
+11020,No,Urban,Married
+11021,No,Urban,Single
+11022,No,Semi Urban,Married
+11023,No,Semi Urban,Married
+11024,No,Rural,Single
+11025,No,Rural,Married
+11026,No,Rural,Married
+11027,No,Rural,Married
+11028,Yes,Semi Urban,Married
+11029,No,Urban,Married
+11030,Yes,Semi Urban,Married
+11031,No,Semi Urban,Married
+11032,No,Rural,Single
+11033,No,Urban,Married
+11034,Yes,Urban,Married
+11035,No,Urban,Married
+11036,Yes,Urban,Single
+11037,No,Urban,Single
+11038,No,Rural,Married
+11039,No,Urban,Married
+11040,No,Rural,Married
+11041,No,Urban,Single
+11042,Yes,Urban,Married
+11043,No,Rural,Married
+11044,No,Rural,Married
+11045,No,Semi Urban,Single
+11046,No,Urban,Married
+11047,No,Urban,Single
+11048,No,Urban,Married
+11049,No,Rural,Married
+11050,No,Rural,Single
+11051,No,Rural,Married
+11052,No,Semi Urban,Married
+11053,No,Semi Urban,Single
+11054,Yes,Semi Urban,Married
+11055,No,Urban,Married
+11056,No,Semi Urban,Married
+11057,No,Urban,Married
+11058,No,Semi Urban,Married
+11059,No,Rural,Married
+11060,No,Rural,Married
+11061,No,Rural,Single
+11062,No,Semi Urban,Married
+11063,No,Urban,Single
+11064,No,Rural,Married
+11065,No,Rural,Married
+11066,No,Rural,Married
+11067,No,Urban,Married
+11068,Yes,Urban,Single
+11069,No,Rural,Single
+11070,No,Semi Urban,Married
+11071,No,Rural,Married
+11072,Yes,Urban,Single
+11073,No,Urban,Married
+11074,No,Urban,Married
+11075,No,Rural,Married
+11076,No,Urban,Single
+11077,No,Rural,Married
+11078,Yes,Urban,Single
+11079,No,Semi Urban,Married
+11080,No,Urban,Married
+11081,No,Semi Urban,Married
+11082,No,Rural,Married
+11083,No,Urban,Married
+11084,No,Semi Urban,Married
+11085,Yes,Semi Urban,Married
+11086,No,Urban,Single
+11087,Yes,Urban,Married
+11088,No,Rural,Married
+11089,No,Semi Urban,Married
+11090,No,Rural,Married
+11091,No,Semi Urban,Married
+11092,No,Rural,Single
+11093,No,Urban,Married
+11094,Yes,Urban,Single
+11095,No,Rural,Married
+11096,No,Urban,Single
+11097,Yes,Semi Urban,Single
+11098,No,Urban,Married
+11099,No,Rural,Married
+11100,No,Semi Urban,Married
+11101,Yes,Urban,Married
+11102,No,Urban,Married
+11103,No,Rural,Married
+11104,Yes,Rural,Married
+11105,Yes,Urban,Married
+11106,Yes,Urban,Married
+11107,No,Urban,Married
+11108,No,Urban,Married
+11109,No,Rural,Married
+11110,No,Urban,Married
+11111,No,Rural,Married
+11112,No,Urban,Married
+11113,Yes,Rural,Married
+11114,No,Urban,Married
+11115,No,Urban,Married
+11116,No,Urban,Married
+11117,Yes,Urban,Married
+11118,No,Rural,Single
+11119,No,Semi Urban,Single
+11120,No,Rural,Married
+11121,No,Urban,Single
+11122,No,Rural,Married
+11123,Yes,Urban,Married
+11124,No,Urban,Single
+11125,No,Urban,Married
+11126,No,Urban,Married
+11127,Yes,Rural,Married
+11128,No,Urban,Single
+11129,No,Urban,Married
+11130,No,Urban,Married
+11131,No,Semi Urban,Married
+11132,Yes,Semi Urban,Married
+11133,No,Urban,Married
+11134,No,Rural,Married
+11135,Yes,Semi Urban,Married
+11136,No,Semi Urban,Married
+11137,No,Rural,Married
+11138,No,Rural,Married
+11139,No,Urban,Married
+11140,Yes,Urban,Married
+11141,No,Urban,Single
+11142,Yes,Semi Urban,Single
+11143,No,Rural,Single
+11144,No,Urban,Single
+11145,No,Semi Urban,Married
+11146,Yes,Rural,Married
+11147,No,Urban,Single
+11148,No,Rural,Single
+11149,No,Urban,Married
+11150,No,Rural,Married
+11151,Yes,Urban,Married
+11152,Yes,Semi Urban,Married
+11153,Yes,Urban,Married
+11154,No,Rural,Married
+11155,No,Rural,Married
+11156,No,Urban,Married
+11157,Yes,Urban,Single
+11158,Yes,Semi Urban,Married
+11159,No,Urban,Married
+11160,No,Urban,Married
+11161,No,Urban,Single
+11162,No,Urban,Married
+11163,No,Semi Urban,Married
+11164,No,Semi Urban,Married
+11165,No,Urban,Married
+11166,No,Rural,Married
+11167,No,Urban,Married
+11168,No,Rural,Married
+11169,Yes,Urban,Married
+11170,Yes,Urban,Single
+11171,No,Semi Urban,Married
+11172,No,Rural,Married
+11173,No,Rural,Married
+11174,No,Rural,Married
+11175,Yes,Rural,Married
+11176,Yes,Urban,Married
+11177,No,Urban,Married
+11178,No,Rural,Single
+11179,No,Urban,Married
+11180,No,Urban,Married
+11181,No,Urban,Married
+11182,No,Semi Urban,Married
+11183,No,Urban,Married
+11184,No,Semi Urban,Single
+11185,No,Rural,Married
+11186,No,Urban,Single
+11187,Yes,Rural,Married
+11188,Yes,Rural,Single
+11189,No,Semi Urban,Married
+11190,No,Rural,Single
+11191,No,Rural,Married
+11192,Yes,Urban,Married
+11193,No,Semi Urban,Married
+11194,No,Urban,Married
+11195,No,Semi Urban,Married
+11196,No,Rural,Married
+11197,No,Rural,Married
+11198,No,Urban,Married
+11199,No,Urban,Single
+11200,No,Urban,Single
+11201,No,Urban,Married
+11202,No,Semi Urban,Married
+11203,No,Semi Urban,Single
+11204,No,Urban,Single
+11205,No,Rural,Married
+11206,No,Semi Urban,Married
+11207,Yes,Rural,Single
+11208,No,Urban,Married
+11209,No,Urban,Married
+11210,No,Urban,Married
+11211,No,Rural,Single
+11212,No,Semi Urban,Married
+11213,Yes,Rural,Married
+11214,Yes,Urban,Married
+11215,No,Semi Urban,Married
+11216,Yes,Rural,Married
+11217,No,Rural,Married
+11218,Yes,Semi Urban,Married
+11219,Yes,Urban,Married
+11220,No,Urban,Married
+11221,No,Urban,Married
+11222,No,Semi Urban,Married
+11223,No,Semi Urban,Single
+11224,Yes,Rural,Single
+11225,No,Urban,Married
+11226,No,Semi Urban,Married
+11227,No,Rural,Single
+11228,No,Rural,Single
+11229,No,Rural,Married
+11230,Yes,Urban,Single
+11231,No,Semi Urban,Married
+11232,No,Rural,Married
+11233,No,Rural,Married
+11234,No,Rural,Married
+11235,No,Rural,Married
+11236,No,Semi Urban,Married
+11237,No,Rural,Single
+11238,Yes,Urban,Married
+11239,No,Urban,Married
+11240,No,Urban,Married
+11241,No,Urban,Married
+11242,No,Urban,Married
+11243,Yes,Urban,Married
+11244,No,Urban,Married
+11245,No,Urban,Married
+11246,No,Rural,Married
+11247,No,Semi Urban,Married
+11248,No,Rural,Married
+11249,No,Semi Urban,Single
+11250,No,Semi Urban,Married
+11251,Yes,Semi Urban,Married
+11252,No,Rural,Married
+11253,Yes,Urban,Married
+11254,No,Rural,Married
+11255,No,Semi Urban,Single
+11256,No,Rural,Married
+11257,No,Rural,Married
+11258,No,Rural,Married
+11259,No,Rural,Single
+11260,No,Semi Urban,Married
+11261,No,Rural,Single
+11262,No,Semi Urban,Married
+11263,No,Rural,Married
+11264,No,Urban,Married
+11265,No,Urban,Married
+11266,No,Rural,Single
+11267,No,Rural,Single
+11268,No,Rural,Married
+11269,No,Urban,Married
+11270,No,Urban,Married
+11271,Yes,Semi Urban,Married
+11272,Yes,Urban,Married
+11273,No,Semi Urban,Single
+11274,No,Rural,Married
+11275,Yes,Urban,Married
+11276,No,Urban,Married
+11277,No,Urban,Married
+11278,No,Semi Urban,Single
+11279,No,Urban,Married
+11280,No,Urban,Married
+11281,Yes,Rural,Single
+11282,No,Urban,Married
+11283,Yes,Urban,Married
+11284,No,Rural,Single
+11285,Yes,Semi Urban,Married
+11286,Yes,Semi Urban,Married
+11287,No,Urban,Married
+11288,No,Rural,Single
+11289,No,Rural,Married
+11290,No,Rural,Married
+11291,No,Urban,Married
+11292,No,Semi Urban,Married
+11293,No,Urban,Married
+11294,No,Rural,Single
+11295,Yes,Urban,Married
+11296,No,Rural,Married
+11297,Yes,Urban,Married
+11298,No,Urban,Married
+11299,No,Semi Urban,Married
+11300,No,Urban,Single
+11301,No,Urban,Married
+11302,No,Rural,Single
+11303,No,Rural,Married
+11304,No,Rural,Married
+11305,No,Urban,Married
+11306,No,Rural,Married
+11307,No,Urban,Married
+11308,No,Urban,Married
+11309,Yes,Rural,Married
+11310,No,Urban,Married
+11311,No,Rural,Married
+11312,No,Rural,Married
+11313,Yes,Urban,Single
+11314,No,Rural,Married
+11315,Yes,Urban,Married
+11316,No,Rural,Married
+11317,No,Rural,Single
+11318,Yes,Rural,Married
+11319,No,Rural,Married
+11320,Yes,Semi Urban,Married
+11321,Yes,Semi Urban,Married
+11322,No,Semi Urban,Married
+11323,No,Semi Urban,Married
+11324,Yes,Rural,Married
+11325,No,Rural,Married
+11326,No,Urban,Single
+11327,Yes,Rural,Married
+11328,No,Rural,Married
+11329,No,Semi Urban,Married
+11330,No,Rural,Married
+11331,No,Rural,Single
+11332,No,Rural,Single
+11333,Yes,Urban,Married
+11334,No,Rural,Married
+11335,No,Urban,Married
+11336,No,Urban,Married
+11337,No,Rural,Married
+11338,No,Rural,Married
+11339,Yes,Rural,Married
+11340,Yes,Urban,Married
+11341,No,Urban,Married
+11342,No,Rural,Married
+11343,No,Rural,Married
+11344,No,Semi Urban,Married
+11345,No,Urban,Married
+11346,No,Rural,Married
+11347,No,Urban,Single
+11348,No,Semi Urban,Married
+11349,Yes,Rural,Married
+11350,Yes,Urban,Single
+11351,No,Rural,Single
+11352,No,Rural,Married
+11353,No,Urban,Single
+11354,No,Semi Urban,Single
+11355,No,Semi Urban,Single
+11356,No,Semi Urban,Single
+11357,No,Urban,Married
+11358,No,Rural,Single
+11359,No,Urban,Single
+11360,No,Urban,Single
+11361,No,Urban,Married
+11362,Yes,Urban,Married
+11363,No,Urban,Married
+11364,No,Rural,Married
+11365,No,Rural,Married
+11366,No,Rural,Married
+11367,No,Semi Urban,Married
+11368,Yes,Urban,Single
+11369,No,Urban,Married
+11370,No,Rural,Married
+11371,No,Semi Urban,Married
+11372,Yes,Semi Urban,Married
+11373,No,Urban,Married
+11374,No,Semi Urban,Married
+11375,No,Rural,Married
+11376,No,Semi Urban,Married
+11377,No,Semi Urban,Married
+11378,No,Rural,Married
+11379,No,Semi Urban,Married
+11380,Yes,Rural,Married
+11381,No,Rural,Married
+11382,No,Rural,Married
+11383,Yes,Rural,Single
+11384,No,Urban,Married
+11385,No,Urban,Single
+11386,Yes,Urban,Married
+11387,No,Urban,Single
+11388,No,Rural,Married
+11389,No,Semi Urban,Married
+11390,No,Rural,Married
+11391,No,Rural,Married
+11392,Yes,Rural,Single
+11393,No,Rural,Married
+11394,No,Semi Urban,Married
+11395,No,Rural,Married
+11396,Yes,Semi Urban,Single
+11397,No,Rural,Single
+11398,No,Urban,Married
+11399,No,Urban,Single
+11400,No,Rural,Married
+11401,No,Urban,Married
+11402,No,Semi Urban,Married
+11403,No,Urban,Married
+11404,No,Semi Urban,Married
+11405,No,Semi Urban,Married
+11406,No,Urban,Married
+11407,Yes,Semi Urban,Married
+11408,No,Urban,Married
+11409,Yes,Rural,Married
+11410,No,Rural,Single
+11411,No,Rural,Married
+11412,No,Urban,Married
+11413,Yes,Rural,Single
+11414,Yes,Rural,Married
+11415,Yes,Semi Urban,Married
+11416,No,Urban,Married
+11417,No,Rural,Married
+11418,No,Urban,Married
+11419,No,Urban,Married
+11420,No,Semi Urban,Single
+11421,No,Urban,Married
+11422,No,Urban,Single
+11423,No,Semi Urban,Married
+11424,No,Rural,Married
+11425,No,Rural,Married
+11426,No,Semi Urban,Married
+11427,No,Urban,Single
+11428,No,Urban,Married
+11429,No,Urban,Married
+11430,No,Semi Urban,Married
+11431,No,Urban,Single
+11432,Yes,Rural,Married
+11433,No,Semi Urban,Married
+11434,No,Urban,Married
+11435,Yes,Rural,Married
+11436,No,Urban,Married
+11437,Yes,Semi Urban,Married
+11438,No,Semi Urban,Married
+11439,No,Urban,Married
+11440,No,Urban,Married
+11441,No,Semi Urban,Married
+11442,Yes,Urban,Married
+11443,No,Rural,Married
+11444,No,Rural,Single
+11445,No,Urban,Married
+11446,No,Rural,Single
+11447,Yes,Urban,Single
+11448,Yes,Semi Urban,Married
+11449,No,Semi Urban,Married
+11450,No,Urban,Married
+11451,No,Rural,Married
+11452,No,Urban,Married
+11453,No,Urban,Married
+11454,No,Urban,Married
+11455,No,Rural,Married
+11456,No,Urban,Married
+11457,No,Urban,Single
+11458,No,Semi Urban,Married
+11459,Yes,Rural,Single
+11460,No,Semi Urban,Married
+11461,Yes,Urban,Married
+11462,No,Urban,Married
+11463,Yes,Semi Urban,Married
+11464,No,Urban,Married
+11465,No,Urban,Single
+11466,No,Semi Urban,Single
+11467,Yes,Urban,Single
+11468,No,Urban,Married
+11469,No,Urban,Married
+11470,No,Semi Urban,Married
+11471,No,Urban,Single
+11472,Yes,Urban,Married
+11473,No,Rural,Single
+11474,No,Urban,Married
+11475,No,Urban,Married
+11476,No,Rural,Single
+11477,No,Urban,Single
+11478,No,Semi Urban,Married
+11479,No,Rural,Married
+11480,No,Rural,Married
+11481,No,Urban,Single
+11482,No,Rural,Married
+11483,No,Rural,Married
+11484,No,Rural,Married
+11485,No,Semi Urban,Married
+11486,Yes,Rural,Married
+11487,No,Rural,Single
+11488,Yes,Urban,Married
+11489,No,Rural,Single
+11490,No,Urban,Married
+11491,No,Urban,Married
+11492,No,Rural,Married
+11493,No,Rural,Married
+11494,No,Semi Urban,Married
+11495,Yes,Rural,Married
+11496,No,Urban,Married
+11497,No,Rural,Married
+11498,No,Rural,Married
+11499,No,Rural,Married
+11500,No,Urban,Married
+11501,No,Urban,Married
+11502,No,Rural,Married
+11503,No,Semi Urban,Married
+11504,Yes,Rural,Single
+11505,No,Urban,Married
+11506,No,Rural,Married
+11507,Yes,Rural,Married
+11508,No,Semi Urban,Single
+11509,Yes,Urban,Married
+11510,No,Urban,Married
+11511,No,Urban,Married
+11512,No,Rural,Married
+11513,No,Urban,Married
+11514,No,Urban,Married
+11515,Yes,Semi Urban,Married
+11516,No,Rural,Single
+11517,No,Semi Urban,Married
+11518,Yes,Rural,Married
+11519,No,Urban,Married
+11520,No,Semi Urban,Married
+11521,No,Urban,Married
+11522,No,Semi Urban,Married
+11523,No,Semi Urban,Married
+11524,No,Urban,Single
+11525,Yes,Urban,Married
+11526,No,Urban,Married
+11527,No,Urban,Married
+11528,Yes,Semi Urban,Married
+11529,No,Urban,Married
+11530,No,Semi Urban,Married
+11531,No,Rural,Married
+11532,No,Semi Urban,Married
+11533,No,Rural,Married
+11534,No,Urban,Married
+11535,No,Rural,Married
+11536,Yes,Urban,Married
+11537,No,Rural,Married
+11538,No,Rural,Married
+11539,Yes,Rural,Married
+11540,No,Semi Urban,Married
+11541,No,Rural,Single
+11542,Yes,Semi Urban,Single
+11543,No,Rural,Married
+11544,No,Urban,Married
+11545,Yes,Urban,Married
+11546,No,Urban,Married
+11547,No,Semi Urban,Married
+11548,Yes,Urban,Single
+11549,No,Urban,Married
+11550,No,Rural,Married
+11551,No,Rural,Married
+11552,No,Urban,Married
+11553,Yes,Urban,Married
+11554,No,Urban,Married
+11555,No,Urban,Married
+11556,Yes,Rural,Single
+11557,No,Rural,Married
+11558,Yes,Urban,Married
+11559,No,Semi Urban,Single
+11560,No,Rural,Single
+11561,No,Rural,Married
+11562,Yes,Rural,Married
+11563,No,Rural,Married
+11564,No,Urban,Married
+11565,No,Urban,Married
+11566,No,Rural,Married
+11567,Yes,Rural,Married
+11568,No,Semi Urban,Married
+11569,No,Semi Urban,Married
+11570,Yes,Rural,Married
+11571,No,Rural,Single
+11572,Yes,Semi Urban,Single
+11573,Yes,Semi Urban,Married
+11574,No,Urban,Single
+11575,No,Urban,Married
+11576,No,Rural,Married
+11577,No,Urban,Single
+11578,Yes,Rural,Single
+11579,Yes,Semi Urban,Married
+11580,Yes,Rural,Married
+11581,No,Urban,Married
+11582,No,Rural,Married
+11583,No,Urban,Single
+11584,Yes,Urban,Married
+11585,No,Rural,Married
+11586,Yes,Rural,Married
+11587,No,Urban,Single
+11588,No,Urban,Married
+11589,No,Urban,Single
+11590,Yes,Urban,Single
+11591,Yes,Rural,Married
+11592,Yes,Rural,Married
+11593,No,Rural,Single
+11594,No,Rural,Married
+11595,No,Rural,Married
+11596,No,Urban,Married
+11597,No,Rural,Married
+11598,No,Rural,Single
+11599,No,Rural,Married
+11600,No,Urban,Married
+11601,Yes,Semi Urban,Married
+11602,No,Urban,Married
+11603,No,Urban,Single
+11604,Yes,Urban,Married
+11605,No,Semi Urban,Married
+11606,No,Rural,Married
+11607,No,Semi Urban,Married
+11608,No,Urban,Single
+11609,No,Rural,Single
+11610,No,Rural,Married
+11611,No,Urban,Married
+11612,No,Rural,Married
+11613,No,Rural,Married
+11614,No,Rural,Single
+11615,No,Rural,Single
+11616,No,Rural,Married
+11617,No,Rural,Single
+11618,Yes,Rural,Married
+11619,No,Urban,Married
+11620,No,Semi Urban,Married
+11621,No,Urban,Single
+11622,Yes,Rural,Married
+11623,No,Urban,Married
+11624,No,Rural,Married
+11625,No,Urban,Single
+11626,No,Urban,Married
+11627,Yes,Rural,Married
+11628,No,Semi Urban,Married
+11629,No,Rural,Married
+11630,No,Semi Urban,Married
+11631,No,Semi Urban,Married
+11632,No,Rural,Married
+11633,No,Urban,Married
+11634,No,Urban,Single
+11635,No,Urban,Single
+11636,No,Semi Urban,Single
+11637,No,Semi Urban,Married
+11638,No,Urban,Single
+11639,No,Semi Urban,Married
+11640,No,Rural,Married
+11641,Yes,Urban,Married
+11642,No,Urban,Married
+11643,No,Urban,Married
+11644,Yes,Rural,Single
+11645,No,Rural,Single
+11646,No,Semi Urban,Married
+11647,No,Semi Urban,Married
+11648,No,Urban,Married
+11649,Yes,Urban,Single
+11650,No,Urban,Married
+11651,No,Rural,Married
+11652,No,Semi Urban,Single
+11653,No,Urban,Single
+11654,No,Urban,Married
+11655,Yes,Urban,Married
+11656,No,Rural,Married
+11657,No,Rural,Single
+11658,Yes,Rural,Married
+11659,No,Urban,Married
+11660,Yes,Rural,Married
+11661,No,Rural,Married
+11662,No,Rural,Married
+11663,No,Urban,Married
+11664,No,Urban,Married
+11665,No,Urban,Single
+11666,Yes,Semi Urban,Married
+11667,No,Urban,Married
+11668,No,Rural,Single
+11669,Yes,Urban,Married
+11670,No,Rural,Single
+11671,No,Urban,Married
+11672,Yes,Urban,Married
+11673,Yes,Urban,Married
+11674,No,Rural,Married
+11675,No,Rural,Single
+11676,No,Rural,Married
+11677,No,Rural,Single
+11678,Yes,Rural,Married
+11679,No,Rural,Married
+11680,No,Rural,Married
+11681,No,Urban,Single
+11682,No,Semi Urban,Married
+11683,No,Rural,Married
+11684,No,Semi Urban,Married
+11685,No,Semi Urban,Married
+11686,No,Urban,Single
+11687,No,Semi Urban,Married
+11688,Yes,Urban,Single
+11689,No,Rural,Married
+11690,No,Semi Urban,Married
+11691,No,Semi Urban,Single
+11692,No,Rural,Married
+11693,No,Urban,Married
+11694,No,Urban,Married
+11695,No,Rural,Married
+11696,No,Urban,Married
+11697,Yes,Urban,Married
+11698,Yes,Urban,Married
+11699,No,Rural,Married
+11700,No,Rural,Single
+11701,Yes,Rural,Married
+11702,No,Urban,Married
+11703,No,Rural,Married
+11704,No,Urban,Married
+11705,Yes,Rural,Married
+11706,No,Urban,Married
+11707,No,Rural,Single
+11708,No,Urban,Single
+11709,No,Rural,Married
+11710,No,Urban,Married
+11711,No,Semi Urban,Married
+11712,No,Rural,Single
+11713,No,Urban,Single
+11714,Yes,Urban,Married
+11715,No,Semi Urban,Married
+11716,No,Rural,Married
+11717,No,Rural,Married
+11718,No,Rural,Married
+11719,No,Rural,Married
+11720,No,Urban,Married
+11721,Yes,Urban,Single
+11722,No,Urban,Single
+11723,No,Urban,Single
+11724,No,Urban,Married
+11725,No,Urban,Married
+11726,No,Urban,Married
+11727,No,Rural,Single
+11728,No,Rural,Married
+11729,No,Rural,Married
+11730,No,Urban,Married
+11731,No,Rural,Single
+11732,Yes,Urban,Married
+11733,No,Urban,Married
+11734,No,Rural,Single
+11735,No,Rural,Married
+11736,No,Urban,Married
+11737,No,Urban,Single
+11738,Yes,Urban,Married
+11739,No,Rural,Married
+11740,No,Urban,Married
+11741,No,Rural,Single
+11742,No,Rural,Married
+11743,No,Rural,Married
+11744,No,Urban,Married
+11745,No,Rural,Married
+11746,No,Semi Urban,Married
+11747,No,Urban,Married
+11748,Yes,Rural,Single
+11749,No,Urban,Married
+11750,Yes,Rural,Married
+11751,No,Semi Urban,Single
+11752,No,Urban,Single
+11753,No,Semi Urban,Married
+11754,No,Semi Urban,Married
+11755,No,Urban,Married
+11756,No,Rural,Single
+11757,No,Urban,Married
+11758,No,Rural,Single
+11759,Yes,Semi Urban,Married
+11760,No,Rural,Single
+11761,No,Rural,Married
+11762,Yes,Urban,Married
+11763,No,Semi Urban,Single
+11764,No,Semi Urban,Single
+11765,No,Semi Urban,Single
+11766,No,Rural,Single
+11767,No,Semi Urban,Single
+11768,No,Urban,Married
+11769,No,Semi Urban,Married
+11770,No,Urban,Married
+11771,Yes,Urban,Married
+11772,No,Rural,Married
+11773,No,Urban,Married
+11774,No,Semi Urban,Single
+11775,No,Urban,Married
+11776,No,Urban,Married
+11777,No,Urban,Married
+11778,No,Rural,Married
+11779,No,Rural,Married
+11780,No,Urban,Married
+11781,No,Semi Urban,Married
+11782,No,Rural,Married
+11783,No,Rural,Married
+11784,No,Semi Urban,Married
+11785,No,Urban,Married
+11786,No,Urban,Married
+11787,No,Urban,Married
+11788,No,Semi Urban,Single
+11789,No,Semi Urban,Married
+11790,Yes,Semi Urban,Married
+11791,No,Semi Urban,Married
+11792,No,Rural,Married
+11793,No,Rural,Single
+11794,Yes,Rural,Married
+11795,No,Semi Urban,Married
+11796,No,Rural,Married
+11797,No,Rural,Married
+11798,No,Urban,Single
+11799,No,Rural,Married
+11800,No,Urban,Single
+11801,No,Semi Urban,Married
+11802,No,Urban,Married
+11803,No,Rural,Single
+11804,No,Rural,Married
+11805,Yes,Urban,Married
+11806,No,Urban,Married
+11807,No,Semi Urban,Married
+11808,No,Urban,Married
+11809,No,Rural,Single
+11810,No,Semi Urban,Married
+11811,No,Rural,Married
+11812,No,Urban,Married
+11813,No,Urban,Married
+11814,Yes,Rural,Married
+11815,No,Semi Urban,Married
+11816,No,Rural,Married
+11817,No,Urban,Single
+11818,No,Semi Urban,Married
+11819,No,Rural,Married
+11820,No,Semi Urban,Married
+11821,No,Semi Urban,Single
+11822,No,Rural,Married
+11823,No,Semi Urban,Married
+11824,No,Rural,Married
+11825,No,Urban,Single
+11826,No,Urban,Single
+11827,Yes,Semi Urban,Married
+11828,Yes,Urban,Married
+11829,No,Rural,Married
+11830,No,Rural,Married
+11831,No,Semi Urban,Married
+11832,No,Rural,Married
+11833,Yes,Urban,Married
+11834,No,Rural,Single
+11835,No,Urban,Married
+11836,No,Rural,Married
+11837,No,Semi Urban,Married
+11838,Yes,Semi Urban,Single
+11839,Yes,Semi Urban,Married
+11840,No,Rural,Married
+11841,No,Urban,Single
+11842,No,Urban,Married
+11843,No,Urban,Married
+11844,Yes,Semi Urban,Single
+11845,Yes,Rural,Married
+11846,No,Rural,Married
+11847,No,Urban,Single
+11848,No,Rural,Single
+11849,Yes,Rural,Married
+11850,No,Semi Urban,Single
+11851,No,Rural,Single
+11852,Yes,Semi Urban,Married
+11853,No,Urban,Single
+11854,No,Rural,Married
+11855,No,Semi Urban,Single
+11856,No,Urban,Married
+11857,No,Urban,Married
+11858,No,Rural,Single
+11859,No,Semi Urban,Married
+11860,Yes,Semi Urban,Single
+11861,No,Urban,Married
+11862,No,Rural,Married
+11863,No,Rural,Single
+11864,No,Urban,Married
+11865,No,Urban,Married
+11866,No,Rural,Married
+11867,No,Rural,Married
+11868,No,Urban,Married
+11869,No,Rural,Married
+11870,No,Urban,Married
+11871,No,Urban,Married
+11872,Yes,Semi Urban,Married
+11873,No,Rural,Married
+11874,No,Urban,Married
+11875,No,Rural,Married
+11876,No,Rural,Married
+11877,Yes,Rural,Married
+11878,No,Semi Urban,Married
+11879,No,Rural,Married
+11880,No,Rural,Married
+11881,No,Rural,Married
+11882,No,Urban,Single
+11883,No,Semi Urban,Married
+11884,No,Rural,Married
+11885,Yes,Rural,Married
+11886,No,Urban,Single
+11887,No,Rural,Married
+11888,No,Semi Urban,Married
+11889,No,Rural,Married
+11890,No,Urban,Single
+11891,Yes,Rural,Married
+11892,No,Rural,Married
+11893,No,Semi Urban,Married
+11894,No,Urban,Married
+11895,Yes,Rural,Married
+11896,No,Urban,Married
+11897,No,Rural,Married
+11898,No,Urban,Single
+11899,No,Urban,Single
+11900,No,Urban,Married
+11901,No,Rural,Single
+11902,Yes,Urban,Married
+11903,Yes,Urban,Married
+11904,No,Urban,Single
+11905,No,Semi Urban,Single
+11906,No,Rural,Single
+11907,No,Rural,Single
+11908,No,Semi Urban,Single
+11909,No,Semi Urban,Single
+11910,No,Rural,Married
+11911,Yes,Rural,Married
+11912,No,Urban,Married
+11913,Yes,Urban,Single
+11914,Yes,Urban,Married
+11915,No,Urban,Single
+11916,No,Urban,Single
+11917,Yes,Urban,Married
+11918,No,Semi Urban,Married
+11919,No,Urban,Married
+11920,No,Semi Urban,Married
+11921,No,Urban,Married
+11922,Yes,Rural,Married
+11923,Yes,Urban,Married
+11924,No,Urban,Single
+11925,Yes,Urban,Married
+11926,No,Urban,Married
+11927,No,Rural,Married
+11928,No,Urban,Married
+11929,No,Semi Urban,Married
+11930,Yes,Rural,Married
+11931,No,Semi Urban,Married
+11932,No,Urban,Single
+11933,Yes,Rural,Married
+11934,Yes,Rural,Single
+11935,No,Urban,Married
+11936,Yes,Rural,Married
+11937,Yes,Rural,Married
+11938,Yes,Rural,Married
+11939,No,Semi Urban,Married
+11940,Yes,Semi Urban,Married
+11941,Yes,Urban,Single
+11942,No,Urban,Married
+11943,No,Semi Urban,Married
+11944,No,Urban,Single
+11945,No,Urban,Married
+11946,No,Semi Urban,Married
+11947,Yes,Semi Urban,Married
+11948,Yes,Rural,Single
+11949,No,Semi Urban,Married
+11950,No,Urban,Single
+11951,No,Urban,Married
+11952,No,Urban,Married
+11953,Yes,Urban,Married
+11954,Yes,Semi Urban,Married
+11955,No,Rural,Married
+11956,No,Rural,Married
+11957,No,Urban,Married
+11958,No,Rural,Married
+11959,No,Semi Urban,Married
+11960,No,Urban,Married
+11961,No,Rural,Married
+11962,No,Rural,Single
+11963,Yes,Rural,Single
+11964,Yes,Urban,Married
+11965,No,Rural,Single
+11966,No,Rural,Married
+11967,No,Semi Urban,Single
+11968,Yes,Rural,Married
+11969,Yes,Rural,Married
+11970,No,Urban,Married
+11971,No,Semi Urban,Single
+11972,No,Urban,Married
+11973,No,Semi Urban,Married
+11974,Yes,Urban,Single
+11975,Yes,Rural,Married
+11976,No,Urban,Married
+11977,No,Rural,Married
+11978,Yes,Semi Urban,Married
+11979,No,Semi Urban,Married
+11980,No,Urban,Married
+11981,Yes,Urban,Married
+11982,Yes,Rural,Married
+11983,No,Rural,Married
+11984,No,Rural,Married
+11985,No,Urban,Married
+11986,No,Urban,Married
+11987,No,Semi Urban,Married
+11988,No,Rural,Married
+11989,No,Urban,Married
+11990,Yes,Urban,Married
+11991,No,Rural,Married
+11992,No,Urban,Married
+11993,No,Rural,Single
+11994,No,Urban,Married
+11995,No,Semi Urban,Single
+11996,No,Rural,Married
+11997,No,Urban,Married
+11998,No,Rural,Single
+11999,No,Semi Urban,Married
+12000,No,Rural,Married
+12001,No,Rural,Married
+12002,No,Urban,Single
+12003,No,Urban,Married
+12004,Yes,Semi Urban,Married
+12005,No,Urban,Married
+12006,No,Rural,Married
+12007,Yes,Urban,Married
+12008,No,Urban,Married
+12009,Yes,Semi Urban,Single
+12010,No,Urban,Married
+12011,Yes,Semi Urban,Single
+12012,No,Urban,Married
+12013,Yes,Semi Urban,Married
+12014,Yes,Semi Urban,Single
+12015,Yes,Rural,Married
+12016,No,Semi Urban,Married
+12017,No,Urban,Single
+12018,No,Rural,Married
+12019,Yes,Urban,Married
+12020,No,Rural,Married
+12021,No,Semi Urban,Married
+12022,No,Semi Urban,Married
+12023,No,Semi Urban,Married
+12024,No,Semi Urban,Single
+12025,No,Rural,Single
+12026,No,Rural,Married
+12027,No,Urban,Married
+12028,No,Semi Urban,Married
+12029,No,Urban,Married
+12030,No,Urban,Married
+12031,No,Rural,Married
+12032,No,Urban,Married
+12033,No,Urban,Married
+12034,Yes,Rural,Married
+12035,No,Rural,Married
+12036,No,Urban,Married
+12037,No,Rural,Married
+12038,No,Rural,Married
+12039,No,Rural,Married
+12040,No,Urban,Married
+12041,No,Rural,Married
+12042,Yes,Semi Urban,Married
+12043,No,Semi Urban,Married
+12044,No,Semi Urban,Single
+12045,No,Semi Urban,Married
+12046,No,Urban,Married
+12047,No,Urban,Single
+12048,No,Semi Urban,Married
+12049,Yes,Rural,Single
+12050,No,Semi Urban,Married
+12051,No,Rural,Married
+12052,No,Urban,Married
+12053,No,Urban,Married
+12054,No,Semi Urban,Married
+12055,No,Semi Urban,Married
+12056,No,Urban,Married
+12057,No,Semi Urban,Married
+12058,Yes,Semi Urban,Single
+12059,Yes,Urban,Single
+12060,No,Rural,Married
+12061,No,Urban,Single
+12062,No,Urban,Married
+12063,No,Rural,Single
+12064,No,Rural,Married
+12065,No,Rural,Married
+12066,Yes,Semi Urban,Married
+12067,No,Semi Urban,Single
+12068,Yes,Semi Urban,Single
+12069,No,Urban,Married
+12070,No,Rural,Married
+12071,No,Urban,Married
+12072,No,Urban,Single
+12073,No,Semi Urban,Married
+12074,No,Rural,Single
+12075,No,Semi Urban,Single
+12076,Yes,Urban,Single
+12077,No,Rural,Married
+12078,Yes,Urban,Married
+12079,No,Urban,Single
+12080,No,Rural,Married
+12081,No,Rural,Married
+12082,Yes,Urban,Married
+12083,No,Rural,Married
+12084,No,Semi Urban,Married
+12085,No,Rural,Married
+12086,No,Urban,Single
+12087,No,Rural,Married
+12088,No,Semi Urban,Married
+12089,No,Semi Urban,Married
+12090,Yes,Urban,Married
+12091,Yes,Urban,Single
+12092,Yes,Urban,Married
+12093,No,Semi Urban,Married
+12094,No,Urban,Married
+12095,Yes,Rural,Married
+12096,No,Urban,Married
+12097,No,Rural,Single
+12098,No,Urban,Married
+12099,No,Rural,Married
+12100,Yes,Rural,Single
+12101,No,Semi Urban,Married
+12102,No,Urban,Single
+12103,Yes,Rural,Married
+12104,No,Urban,Married
+12105,No,Urban,Married
+12106,Yes,Urban,Married
+12107,No,Semi Urban,Married
+12108,Yes,Urban,Married
+12109,Yes,Semi Urban,Married
+12110,No,Urban,Single
+12111,Yes,Rural,Married
+12112,No,Semi Urban,Married
+12113,No,Urban,Married
+12114,No,Semi Urban,Single
+12115,No,Semi Urban,Married
+12116,No,Urban,Single
+12117,No,Rural,Married
+12118,No,Semi Urban,Married
+12119,No,Rural,Single
+12120,No,Urban,Single
+12121,No,Semi Urban,Single
+12122,No,Urban,Married
+12123,Yes,Semi Urban,Married
+12124,Yes,Rural,Married
+12125,No,Rural,Married
+12126,No,Urban,Single
+12127,No,Rural,Married
+12128,No,Rural,Married
+12129,No,Semi Urban,Married
+12130,No,Rural,Married
+12131,No,Urban,Married
+12132,No,Rural,Single
+12133,No,Rural,Married
+12134,Yes,Semi Urban,Married
+12135,No,Rural,Married
+12136,No,Urban,Married
+12137,No,Semi Urban,Single
+12138,Yes,Urban,Married
+12139,Yes,Semi Urban,Married
+12140,No,Semi Urban,Married
+12141,No,Urban,Married
+12142,No,Rural,Married
+12143,No,Rural,Married
+12144,No,Rural,Married
+12145,No,Rural,Married
+12146,No,Urban,Married
+12147,No,Urban,Single
+12148,Yes,Urban,Married
+12149,Yes,Rural,Married
+12150,No,Semi Urban,Married
+12151,No,Urban,Married
+12152,No,Rural,Married
+12153,No,Urban,Single
+12154,Yes,Semi Urban,Single
+12155,No,Rural,Married
+12156,No,Urban,Married
+12157,Yes,Rural,Single
+12158,No,Urban,Married
+12159,No,Urban,Single
+12160,No,Semi Urban,Married
+12161,Yes,Rural,Married
+12162,No,Semi Urban,Married
+12163,No,Rural,Single
+12164,No,Urban,Single
+12165,Yes,Urban,Married
+12166,No,Rural,Married
+12167,No,Urban,Married
+12168,No,Urban,Married
+12169,No,Rural,Married
+12170,No,Rural,Single
+12171,No,Rural,Single
+12172,No,Urban,Married
+12173,No,Rural,Married
+12174,Yes,Urban,Married
+12175,No,Urban,Married
+12176,No,Semi Urban,Married
+12177,No,Rural,Married
+12178,No,Rural,Single
+12179,No,Rural,Married
+12180,No,Urban,Married
+12181,Yes,Urban,Single
+12182,No,Urban,Single
+12183,No,Urban,Married
+12184,Yes,Urban,Married
+12185,No,Urban,Married
+12186,No,Rural,Single
+12187,No,Urban,Married
+12188,No,Semi Urban,Married
+12189,No,Semi Urban,Married
+12190,No,Rural,Married
+12191,No,Urban,Single
+12192,No,Rural,Single
+12193,No,Rural,Married
+12194,No,Urban,Married
+12195,No,Urban,Married
+12196,No,Urban,Single
+12197,No,Rural,Married
+12198,No,Urban,Married
+12199,No,Rural,Married
+12200,No,Rural,Married
+12201,No,Urban,Married
+12202,No,Rural,Single
+12203,No,Semi Urban,Married
+12204,No,Urban,Single
+12205,No,Urban,Married
+12206,Yes,Urban,Married
+12207,No,Urban,Married
+12208,Yes,Rural,Married
+12209,No,Semi Urban,Married
+12210,No,Urban,Single
+12211,No,Rural,Married
+12212,No,Urban,Married
+12213,No,Rural,Single
+12214,No,Urban,Married
+12215,No,Rural,Married
+12216,No,Rural,Single
+12217,Yes,Rural,Married
+12218,Yes,Semi Urban,Married
+12219,No,Rural,Married
+12220,No,Semi Urban,Married
+12221,No,Urban,Married
+12222,No,Rural,Single
+12223,No,Rural,Single
+12224,Yes,Urban,Married
+12225,No,Urban,Single
+12226,No,Urban,Married
+12227,No,Rural,Married
+12228,No,Urban,Married
+12229,No,Rural,Married
+12230,No,Urban,Single
+12231,Yes,Semi Urban,Married
+12232,No,Rural,Married
+12233,No,Urban,Single
+12234,No,Urban,Single
+12235,No,Rural,Married
+12236,No,Rural,Married
+12237,No,Rural,Single
+12238,Yes,Semi Urban,Married
+12239,No,Urban,Single
+12240,No,Rural,Single
+12241,No,Urban,Single
+12242,No,Urban,Married
+12243,No,Rural,Married
+12244,No,Urban,Married
+12245,No,Urban,Married
+12246,No,Urban,Married
+12247,Yes,Semi Urban,Married
+12248,Yes,Semi Urban,Married
+12249,No,Rural,Married
+12250,Yes,Rural,Married
+12251,Yes,Semi Urban,Married
+12252,No,Urban,Single
+12253,No,Urban,Married
+12254,No,Urban,Married
+12255,Yes,Rural,Single
+12256,Yes,Rural,Single
+12257,No,Rural,Single
+12258,No,Urban,Married
+12259,No,Rural,Married
+12260,No,Rural,Single
+12261,No,Urban,Single
+12262,No,Semi Urban,Married
+12263,No,Urban,Single
+12264,No,Rural,Married
+12265,No,Semi Urban,Married
+12266,No,Rural,Married
+12267,No,Rural,Married
+12268,No,Rural,Married
+12269,Yes,Rural,Married
+12270,No,Urban,Single
+12271,No,Semi Urban,Married
+12272,No,Urban,Single
+12273,No,Semi Urban,Married
+12274,No,Rural,Single
+12275,No,Urban,Single
+12276,No,Rural,Married
+12277,No,Rural,Married
+12278,No,Urban,Married
+12279,No,Rural,Married
+12280,No,Rural,Single
+12281,No,Rural,Married
+12282,No,Semi Urban,Single
+12283,No,Rural,Married
+12284,No,Rural,Married
+12285,No,Urban,Single
+12286,No,Rural,Married
+12287,No,Rural,Married
+12288,Yes,Urban,Single
+12289,Yes,Rural,Single
+12290,No,Semi Urban,Married
+12291,No,Urban,Married
+12292,No,Semi Urban,Married
+12293,No,Rural,Married
+12294,No,Urban,Married
+12295,No,Urban,Married
+12296,Yes,Semi Urban,Married
+12297,No,Rural,Single
+12298,Yes,Rural,Single
+12299,Yes,Urban,Married
+12300,No,Rural,Single
+12301,No,Urban,Single
+12302,No,Rural,Married
+12303,No,Urban,Married
+12304,No,Rural,Single
+12305,Yes,Urban,Married
+12306,No,Urban,Married
+12307,No,Rural,Married
+12308,Yes,Rural,Single
+12309,No,Rural,Single
+12310,No,Rural,Married
+12311,Yes,Semi Urban,Married
+12312,No,Urban,Married
+12313,No,Rural,Single
+12314,No,Rural,Single
+12315,Yes,Urban,Single
+12316,Yes,Rural,Married
+12317,Yes,Rural,Single
+12318,No,Urban,Married
+12319,Yes,Rural,Single
+12320,No,Rural,Married
+12321,Yes,Rural,Married
+12322,Yes,Semi Urban,Married
+12323,No,Urban,Married
+12324,No,Rural,Single
+12325,No,Urban,Married
+12326,No,Rural,Married
+12327,No,Rural,Single
+12328,No,Rural,Married
+12329,No,Rural,Married
+12330,Yes,Urban,Married
+12331,No,Urban,Married
+12332,No,Rural,Married
+12333,No,Urban,Married
+12334,Yes,Urban,Married
+12335,No,Rural,Married
+12336,No,Urban,Married
+12337,No,Urban,Single
+12338,No,Semi Urban,Single
+12339,No,Rural,Married
+12340,No,Semi Urban,Single
+12341,No,Rural,Married
+12342,No,Urban,Married
+12343,No,Rural,Married
+12344,No,Urban,Single
+12345,Yes,Rural,Married
+12346,Yes,Urban,Married
+12347,No,Rural,Married
+12348,No,Rural,Married
+12349,No,Urban,Married
+12350,No,Rural,Married
+12351,Yes,Rural,Married
+12352,No,Urban,Married
+12353,No,Rural,Married
+12354,No,Urban,Married
+12355,No,Semi Urban,Single
+12356,Yes,Semi Urban,Married
+12357,No,Urban,Married
+12358,No,Urban,Married
+12359,No,Rural,Married
+12360,Yes,Urban,Married
+12361,No,Rural,Married
+12362,No,Urban,Single
+12363,No,Semi Urban,Married
+12364,No,Urban,Married
+12365,No,Urban,Single
+12366,No,Semi Urban,Married
+12367,No,Rural,Single
+12368,No,Urban,Married
+12369,Yes,Semi Urban,Married
+12370,No,Rural,Single
+12371,Yes,Rural,Married
+12372,Yes,Rural,Married
+12373,No,Rural,Married
+12374,No,Urban,Single
+12375,No,Rural,Married
+12376,No,Rural,Married
+12377,No,Rural,Single
+12378,No,Urban,Married
+12379,Yes,Rural,Single
+12380,No,Rural,Married
+12381,Yes,Urban,Single
+12382,No,Urban,Married
+12383,No,Rural,Married
+12384,No,Urban,Single
+12385,Yes,Semi Urban,Single
+12386,No,Urban,Married
+12387,No,Urban,Single
+12388,No,Urban,Married
+12389,No,Urban,Married
+12390,No,Urban,Married
+12391,No,Rural,Married
+12392,No,Semi Urban,Married
+12393,No,Urban,Married
+12394,No,Rural,Married
+12395,No,Rural,Married
+12396,No,Urban,Married
+12397,No,Urban,Married
+12398,Yes,Urban,Married
+12399,No,Urban,Married
+12400,No,Semi Urban,Married
+12401,Yes,Rural,Married
+12402,No,Urban,Married
+12403,No,Semi Urban,Married
+12404,Yes,Urban,Single
+12405,No,Rural,Married
+12406,Yes,Urban,Married
+12407,No,Urban,Married
+12408,No,Semi Urban,Married
+12409,No,Urban,Married
+12410,No,Rural,Single
+12411,No,Rural,Married
+12412,No,Rural,Married
+12413,No,Rural,Married
+12414,No,Rural,Married
+12415,No,Urban,Married
+12416,No,Urban,Married
+12417,No,Semi Urban,Married
+12418,No,Urban,Married
+12419,No,Urban,Married
+12420,No,Rural,Married
+12421,No,Urban,Married
+12422,No,Urban,Married
+12423,No,Rural,Married
+12424,Yes,Rural,Married
+12425,No,Urban,Single
+12426,No,Semi Urban,Married
+12427,No,Urban,Married
+12428,No,Rural,Married
+12429,Yes,Rural,Married
+12430,No,Rural,Married
+12431,No,Urban,Single
+12432,No,Semi Urban,Married
+12433,No,Urban,Married
+12434,Yes,Rural,Single
+12435,Yes,Rural,Married
+12436,No,Semi Urban,Married
+12437,Yes,Rural,Single
+12438,No,Urban,Married
+12439,No,Rural,Single
+12440,No,Urban,Married
+12441,Yes,Rural,Married
+12442,No,Semi Urban,Married
+12443,No,Rural,Married
+12444,No,Semi Urban,Married
+12445,Yes,Urban,Married
+12446,Yes,Urban,Married
+12447,No,Rural,Single
+12448,No,Urban,Married
+12449,No,Semi Urban,Married
+12450,Yes,Semi Urban,Single
+12451,No,Semi Urban,Married
+12452,No,Urban,Married
+12453,No,Urban,Married
+12454,No,Semi Urban,Single
+12455,No,Semi Urban,Married
+12456,No,Rural,Married
+12457,No,Urban,Married
+12458,No,Urban,Married
+12459,No,Urban,Married
+12460,No,Rural,Single
+12461,No,Urban,Single
+12462,No,Urban,Single
+12463,No,Urban,Single
+12464,No,Rural,Married
+12465,No,Urban,Married
+12466,No,Urban,Married
+12467,No,Rural,Married
+12468,No,Urban,Married
+12469,No,Rural,Married
+12470,No,Semi Urban,Married
+12471,No,Urban,Married
+12472,No,Semi Urban,Single
+12473,No,Rural,Single
+12474,No,Rural,Married
+12475,No,Urban,Married
+12476,Yes,Semi Urban,Married
+12477,Yes,Rural,Married
+12478,No,Urban,Married
+12479,No,Rural,Married
+12480,No,Rural,Married
+12481,No,Rural,Married
+12482,No,Urban,Married
+12483,No,Rural,Married
+12484,No,Rural,Single
+12485,No,Urban,Married
+12486,No,Rural,Married
+12487,No,Urban,Married
+12488,No,Urban,Married
+12489,No,Rural,Married
+12490,No,Rural,Single
+12491,No,Rural,Married
+12492,No,Rural,Single
+12493,No,Urban,Married
+12494,No,Semi Urban,Single
+12495,No,Urban,Single
+12496,No,Rural,Single
+12497,No,Rural,Married
+12498,No,Urban,Married
+12499,No,Urban,Single
+12500,No,Rural,Married
+12501,No,Rural,Married
+12502,No,Rural,Married
+12503,Yes,Semi Urban,Married
+12504,No,Urban,Married
+12505,No,Urban,Married
+12506,No,Urban,Married
+12507,No,Urban,Married
+12508,No,Urban,Married
+12509,No,Urban,Married
+12510,No,Rural,Married
+12511,No,Urban,Married
+12512,Yes,Rural,Married
+12513,No,Urban,Married
+12514,Yes,Rural,Married
+12515,No,Rural,Married
+12516,No,Urban,Married
+12517,Yes,Semi Urban,Married
+12518,No,Urban,Married
+12519,No,Semi Urban,Married
+12520,No,Rural,Single
+12521,No,Urban,Married
+12522,No,Rural,Single
+12523,Yes,Urban,Married
+12524,Yes,Semi Urban,Single
+12525,No,Urban,Married
+12526,No,Rural,Married
+12527,No,Urban,Single
+12528,No,Rural,Single
+12529,Yes,Rural,Married
+12530,No,Urban,Married
+12531,No,Urban,Single
+12532,No,Urban,Married
+12533,Yes,Rural,Married
+12534,No,Rural,Married
+12535,Yes,Rural,Married
+12536,No,Urban,Married
+12537,No,Rural,Married
+12538,Yes,Urban,Married
+12539,Yes,Semi Urban,Married
+12540,No,Urban,Married
+12541,No,Urban,Single
+12542,No,Urban,Married
+12543,No,Urban,Married
+12544,No,Semi Urban,Married
+12545,No,Urban,Single
+12546,No,Semi Urban,Married
+12547,No,Urban,Married
+12548,No,Rural,Married
+12549,No,Urban,Married
+12550,No,Urban,Married
+12551,No,Rural,Single
+12552,Yes,Rural,Single
+12553,No,Rural,Married
+12554,Yes,Semi Urban,Married
+12555,No,Urban,Married
+12556,No,Rural,Married
+12557,No,Rural,Married
+12558,No,Rural,Married
+12559,No,Urban,Married
+12560,No,Semi Urban,Married
+12561,No,Urban,Married
+12562,No,Urban,Married
+12563,No,Urban,Married
+12564,No,Rural,Married
+12565,No,Rural,Married
+12566,No,Rural,Single
+12567,No,Rural,Married
+12568,No,Semi Urban,Married
+12569,No,Rural,Single
+12570,No,Rural,Married
+12571,No,Urban,Married
+12572,Yes,Rural,Single
+12573,No,Rural,Married
+12574,No,Urban,Married
+12575,No,Urban,Single
+12576,Yes,Rural,Married
+12577,No,Urban,Single
+12578,Yes,Rural,Married
+12579,No,Rural,Married
+12580,No,Urban,Married
+12581,No,Urban,Married
+12582,No,Rural,Married
+12583,No,Rural,Married
+12584,No,Semi Urban,Single
+12585,No,Rural,Married
+12586,Yes,Semi Urban,Married
+12587,No,Urban,Married
+12588,Yes,Rural,Single
+12589,Yes,Rural,Married
+12590,No,Semi Urban,Married
+12591,No,Rural,Married
+12592,No,Rural,Married
+12593,No,Urban,Married
+12594,No,Urban,Single
+12595,No,Rural,Single
+12596,No,Semi Urban,Married
+12597,No,Rural,Married
+12598,Yes,Rural,Single
+12599,No,Rural,Single
+12600,No,Rural,Married
+12601,No,Urban,Single
+12602,No,Rural,Married
+12603,No,Urban,Married
+12604,No,Urban,Married
+12605,No,Rural,Married
+12606,No,Rural,Single
+12607,No,Semi Urban,Married
+12608,No,Urban,Married
+12609,No,Semi Urban,Married
+12610,Yes,Urban,Married
+12611,No,Semi Urban,Married
+12612,No,Urban,Single
+12613,Yes,Semi Urban,Married
+12614,No,Semi Urban,Married
+12615,No,Rural,Single
+12616,No,Rural,Single
+12617,No,Rural,Married
+12618,No,Rural,Single
+12619,No,Urban,Single
+12620,Yes,Rural,Married
+12621,No,Rural,Married
+12622,Yes,Urban,Married
+12623,No,Urban,Single
+12624,Yes,Urban,Single
+12625,No,Urban,Married
+12626,No,Urban,Married
+12627,No,Semi Urban,Single
+12628,No,Urban,Married
+12629,No,Rural,Single
+12630,Yes,Rural,Single
+12631,No,Urban,Married
+12632,No,Semi Urban,Married
+12633,No,Rural,Married
+12634,No,Urban,Married
+12635,No,Urban,Married
+12636,No,Rural,Married
+12637,No,Rural,Single
+12638,No,Rural,Married
+12639,No,Urban,Single
+12640,Yes,Urban,Single
+12641,Yes,Urban,Married
+12642,Yes,Rural,Married
+12643,No,Semi Urban,Married
+12644,No,Rural,Single
+12645,No,Rural,Single
+12646,No,Rural,Single
+12647,No,Semi Urban,Married
+12648,Yes,Semi Urban,Married
+12649,No,Rural,Married
+12650,No,Rural,Single
+12651,No,Urban,Married
+12652,No,Urban,Married
+12653,No,Rural,Single
+12654,No,Urban,Single
+12655,No,Rural,Married
+12656,No,Urban,Single
+12657,No,Rural,Married
+12658,No,Rural,Married
+12659,No,Urban,Married
+12660,Yes,Urban,Married
+12661,No,Semi Urban,Single
+12662,No,Rural,Single
+12663,No,Rural,Married
+12664,No,Urban,Married
+12665,No,Rural,Married
+12666,Yes,Rural,Married
+12667,No,Urban,Married
+12668,No,Rural,Single
+12669,No,Semi Urban,Married
+12670,No,Rural,Married
+12671,Yes,Rural,Married
+12672,No,Urban,Single
+12673,No,Urban,Married
+12674,No,Rural,Single
+12675,No,Rural,Married
+12676,No,Urban,Married
+12677,No,Rural,Single
+12678,No,Urban,Single
+12679,Yes,Rural,Married
+12680,No,Urban,Married
+12681,No,Rural,Married
+12682,No,Rural,Married
+12683,No,Semi Urban,Married
+12684,No,Urban,Married
+12685,No,Urban,Married
+12686,No,Urban,Single
+12687,No,Semi Urban,Married
+12688,No,Rural,Married
+12689,Yes,Rural,Married
+12690,Yes,Rural,Married
+12691,Yes,Rural,Married
+12692,No,Urban,Married
+12693,No,Semi Urban,Married
+12694,Yes,Urban,Single
+12695,Yes,Rural,Married
+12696,Yes,Rural,Single
+12697,No,Rural,Married
+12698,Yes,Urban,Married
+12699,No,Urban,Single
+12700,No,Semi Urban,Single
+12701,No,Semi Urban,Married
+12702,No,Rural,Married
+12703,Yes,Urban,Married
+12704,No,Rural,Single
+12705,No,Rural,Married
+12706,Yes,Semi Urban,Married
+12707,Yes,Semi Urban,Married
+12708,No,Urban,Married
+12709,No,Rural,Married
+12710,No,Urban,Married
+12711,Yes,Rural,Married
+12712,No,Rural,Single
+12713,No,Urban,Married
+12714,Yes,Semi Urban,Married
+12715,Yes,Semi Urban,Married
+12716,Yes,Semi Urban,Single
+12717,No,Semi Urban,Married
+12718,No,Rural,Single
+12719,No,Rural,Single
+12720,No,Urban,Married
+12721,Yes,Rural,Married
+12722,No,Semi Urban,Single
+12723,Yes,Rural,Single
+12724,No,Urban,Married
+12725,No,Urban,Single
+12726,Yes,Semi Urban,Married
+12727,Yes,Urban,Single
+12728,No,Semi Urban,Married
+12729,No,Rural,Married
+12730,Yes,Semi Urban,Married
+12731,Yes,Semi Urban,Single
+12732,No,Urban,Married
+12733,No,Rural,Married
+12734,No,Urban,Married
+12735,No,Urban,Married
+12736,Yes,Rural,Married
+12737,Yes,Rural,Married
+12738,No,Rural,Married
+12739,Yes,Urban,Married
+12740,Yes,Rural,Married
+12741,No,Rural,Single
+12742,No,Rural,Married
+12743,No,Rural,Married
+12744,No,Urban,Single
+12745,No,Urban,Married
+12746,Yes,Urban,Married
+12747,Yes,Semi Urban,Married
+12748,No,Urban,Married
+12749,Yes,Urban,Married
+12750,No,Rural,Married
+12751,No,Semi Urban,Married
+12752,Yes,Rural,Married
+12753,Yes,Rural,Married
+12754,No,Rural,Married
+12755,No,Rural,Single
+12756,No,Rural,Single
+12757,No,Semi Urban,Married
+12758,No,Urban,Married
+12759,No,Urban,Married
+12760,No,Rural,Married
+12761,Yes,Rural,Married
+12762,No,Urban,Single
+12763,No,Rural,Single
+12764,No,Semi Urban,Married
+12765,No,Rural,Single
+12766,Yes,Urban,Single
+12767,No,Urban,Single
+12768,No,Urban,Married
+12769,No,Urban,Married
+12770,Yes,Rural,Married
+12771,No,Rural,Married
+12772,Yes,Rural,Married
+12773,No,Semi Urban,Married
+12774,No,Rural,Single
+12775,No,Rural,Married
+12776,No,Urban,Single
+12777,Yes,Rural,Married
+12778,No,Rural,Married
+12779,Yes,Rural,Married
+12780,No,Urban,Married
+12781,No,Semi Urban,Married
+12782,No,Rural,Married
+12783,No,Rural,Married
+12784,No,Rural,Married
+12785,No,Rural,Single
+12786,No,Semi Urban,Married
+12787,Yes,Urban,Single
+12788,No,Urban,Married
+12789,No,Urban,Married
+12790,No,Semi Urban,Married
+12791,Yes,Semi Urban,Single
+12792,No,Urban,Married
+12793,No,Rural,Married
+12794,No,Semi Urban,Married
+12795,No,Semi Urban,Married
+12796,Yes,Rural,Single
+12797,No,Rural,Married
+12798,No,Rural,Single
+12799,Yes,Rural,Married
+12800,Yes,Rural,Married
+12801,No,Urban,Married
+12802,No,Semi Urban,Married
+12803,No,Rural,Single
+12804,No,Semi Urban,Single
+12805,Yes,Rural,Married
+12806,Yes,Rural,Married
+12807,No,Semi Urban,Married
+12808,Yes,Urban,Single
+12809,No,Rural,Married
+12810,Yes,Urban,Married
+12811,Yes,Rural,Married
+12812,No,Urban,Married
+12813,Yes,Urban,Single
+12814,No,Rural,Single
+12815,No,Rural,Married
+12816,No,Rural,Married
+12817,No,Urban,Married
+12818,Yes,Urban,Married
+12819,No,Urban,Married
+12820,No,Semi Urban,Married
+12821,No,Urban,Married
+12822,No,Urban,Married
+12823,No,Semi Urban,Married
+12824,No,Semi Urban,Married
+12825,No,Urban,Married
+12826,No,Semi Urban,Single
+12827,No,Rural,Single
+12828,No,Rural,Married
+12829,No,Semi Urban,Single
+12830,No,Urban,Single
+12831,Yes,Rural,Married
+12832,No,Urban,Married
+12833,No,Urban,Married
+12834,Yes,Semi Urban,Married
+12835,No,Rural,Single
+12836,No,Rural,Single
+12837,No,Urban,Married
+12838,No,Urban,Married
+12839,No,Rural,Married
+12840,Yes,Rural,Single
+12841,No,Urban,Married
+12842,No,Rural,Married
+12843,No,Semi Urban,Married
+12844,No,Urban,Married
+12845,No,Urban,Single
+12846,No,Urban,Married
+12847,No,Semi Urban,Single
+12848,Yes,Semi Urban,Married
+12849,No,Semi Urban,Married
+12850,Yes,Urban,Married
+12851,No,Rural,Married
+12852,No,Rural,Married
+12853,No,Rural,Married
+12854,No,Urban,Married
+12855,No,Rural,Married
+12856,Yes,Semi Urban,Married
+12857,Yes,Rural,Married
+12858,No,Urban,Married
+12859,No,Semi Urban,Married
+12860,No,Semi Urban,Married
+12861,Yes,Urban,Married
+12862,Yes,Semi Urban,Married
+12863,Yes,Urban,Married
+12864,No,Urban,Single
+12865,No,Urban,Married
+12866,Yes,Semi Urban,Married
+12867,No,Rural,Married
+12868,No,Urban,Single
+12869,No,Semi Urban,Married
+12870,Yes,Semi Urban,Married
+12871,Yes,Rural,Married
+12872,No,Urban,Married
+12873,Yes,Urban,Single
+12874,No,Rural,Single
+12875,No,Rural,Married
+12876,No,Urban,Married
+12877,No,Rural,Married
+12878,No,Urban,Married
+12879,No,Semi Urban,Married
+12880,No,Semi Urban,Married
+12881,No,Semi Urban,Married
+12882,No,Rural,Married
+12883,No,Urban,Married
+12884,Yes,Semi Urban,Married
+12885,No,Urban,Single
+12886,No,Semi Urban,Single
+12887,No,Rural,Married
+12888,No,Semi Urban,Single
+12889,No,Urban,Married
+12890,Yes,Urban,Single
+12891,No,Rural,Single
+12892,No,Rural,Single
+12893,No,Rural,Single
+12894,No,Semi Urban,Married
+12895,Yes,Rural,Married
+12896,No,Urban,Married
+12897,No,Semi Urban,Married
+12898,No,Urban,Single
+12899,No,Rural,Married
+12900,Yes,Rural,Single
+12901,No,Rural,Married
+12902,No,Urban,Married
+12903,No,Urban,Married
+12904,Yes,Urban,Single
+12905,No,Rural,Single
+12906,Yes,Semi Urban,Married
+12907,No,Urban,Married
+12908,No,Rural,Married
+12909,Yes,Rural,Single
+12910,No,Urban,Single
+12911,No,Semi Urban,Married
+12912,No,Semi Urban,Married
+12913,No,Urban,Married
+12914,No,Rural,Married
+12915,No,Rural,Married
+12916,No,Urban,Single
+12917,No,Rural,Married
+12918,No,Rural,Married
+12919,No,Rural,Single
+12920,No,Urban,Married
+12921,Yes,Rural,Married
+12922,No,Urban,Married
+12923,No,Urban,Married
+12924,No,Urban,Single
+12925,No,Rural,Married
+12926,No,Urban,Married
+12927,No,Urban,Married
+12928,No,Urban,Married
+12929,No,Urban,Single
+12930,No,Rural,Married
+12931,Yes,Rural,Married
+12932,Yes,Urban,Married
+12933,Yes,Urban,Married
+12934,No,Rural,Married
+12935,No,Rural,Single
+12936,No,Semi Urban,Married
+12937,No,Urban,Married
+12938,No,Semi Urban,Married
+12939,No,Urban,Single
+12940,Yes,Rural,Single
+12941,No,Urban,Married
+12942,No,Urban,Married
+12943,Yes,Urban,Single
+12944,No,Urban,Married
+12945,Yes,Rural,Single
+12946,No,Urban,Married
+12947,No,Urban,Married
+12948,No,Rural,Married
+12949,No,Rural,Married
+12950,No,Urban,Married
+12951,No,Urban,Married
+12952,Yes,Rural,Single
+12953,Yes,Semi Urban,Married
+12954,No,Rural,Married
+12955,Yes,Rural,Single
+12956,No,Rural,Married
+12957,No,Semi Urban,Married
+12958,No,Urban,Single
+12959,No,Urban,Single
+12960,Yes,Urban,Married
+12961,No,Urban,Married
+12962,No,Semi Urban,Married
+12963,No,Rural,Single
+12964,No,Rural,Married
+12965,No,Urban,Single
+12966,No,Urban,Married
+12967,Yes,Urban,Single
+12968,No,Urban,Married
+12969,Yes,Rural,Married
+12970,No,Rural,Single
+12971,Yes,Urban,Married
+12972,No,Urban,Married
+12973,Yes,Urban,Married
+12974,No,Urban,Married
+12975,Yes,Urban,Married
+12976,No,Semi Urban,Married
+12977,Yes,Rural,Single
+12978,No,Semi Urban,Married
+12979,No,Urban,Married
+12980,No,Urban,Married
+12981,Yes,Rural,Single
+12982,Yes,Rural,Single
+12983,No,Rural,Married
+12984,No,Semi Urban,Single
+12985,Yes,Rural,Married
+12986,No,Urban,Single
+12987,Yes,Rural,Married
+12988,No,Urban,Married
+12989,No,Urban,Single
+12990,No,Urban,Married
+12991,No,Semi Urban,Single
+12992,No,Rural,Married
+12993,No,Rural,Single
+12994,No,Urban,Married
+12995,Yes,Urban,Married
+12996,No,Semi Urban,Married
+12997,No,Urban,Married
+12998,No,Rural,Single
+12999,No,Urban,Married
+13000,No,Rural,Single
+13001,Yes,Semi Urban,Married
+13002,No,Rural,Married
+13003,No,Rural,Married
+13004,Yes,Urban,Married
+13005,No,Rural,Married
+13006,No,Rural,Married
+13007,No,Rural,Married
+13008,No,Semi Urban,Married
+13009,No,Rural,Married
+13010,No,Urban,Married
+13011,No,Rural,Married
+13012,No,Urban,Married
+13013,No,Rural,Single
+13014,No,Rural,Single
+13015,No,Urban,Single
+13016,No,Urban,Married
+13017,No,Rural,Married
+13018,Yes,Rural,Married
+13019,No,Rural,Married
+13020,No,Urban,Married
+13021,No,Urban,Married
+13022,No,Rural,Married
+13023,No,Rural,Married
+13024,No,Rural,Single
+13025,No,Rural,Married
+13026,No,Urban,Married
+13027,No,Rural,Married
+13028,No,Urban,Married
+13029,No,Semi Urban,Single
+13030,No,Rural,Married
+13031,No,Urban,Married
+13032,Yes,Urban,Married
+13033,No,Semi Urban,Single
+13034,No,Rural,Single
+13035,No,Urban,Single
+13036,Yes,Urban,Single
+13037,Yes,Semi Urban,Married
+13038,Yes,Rural,Married
+13039,No,Urban,Married
+13040,No,Semi Urban,Married
+13041,Yes,Rural,Married
+13042,No,Rural,Single
+13043,No,Rural,Married
+13044,No,Rural,Single
+13045,No,Rural,Married
+13046,Yes,Semi Urban,Married
+13047,No,Rural,Single
+13048,No,Urban,Married
+13049,No,Semi Urban,Married
+13050,No,Urban,Single
+13051,No,Urban,Married
+13052,Yes,Rural,Single
+13053,Yes,Urban,Married
+13054,No,Urban,Single
+13055,No,Urban,Married
+13056,No,Rural,Married
+13057,No,Rural,Single
+13058,No,Urban,Married
+13059,No,Urban,Single
+13060,Yes,Rural,Married
+13061,No,Rural,Single
+13062,No,Urban,Married
+13063,No,Rural,Married
+13064,No,Urban,Married
+13065,Yes,Rural,Single
+13066,No,Rural,Married
+13067,No,Semi Urban,Single
+13068,Yes,Urban,Married
+13069,Yes,Semi Urban,Single
+13070,Yes,Rural,Single
+13071,No,Urban,Married
+13072,No,Rural,Married
+13073,No,Rural,Married
+13074,No,Rural,Married
+13075,Yes,Semi Urban,Married
+13076,No,Rural,Single
+13077,Yes,Urban,Married
+13078,No,Rural,Married
+13079,Yes,Urban,Married
+13080,No,Urban,Single
+13081,No,Urban,Married
+13082,No,Semi Urban,Married
+13083,No,Rural,Married
+13084,No,Urban,Married
+13085,No,Urban,Married
+13086,No,Semi Urban,Married
+13087,No,Urban,Married
+13088,No,Rural,Married
+13089,No,Urban,Single
+13090,No,Semi Urban,Single
+13091,No,Urban,Single
+13092,No,Rural,Married
+13093,No,Semi Urban,Married
+13094,No,Urban,Single
+13095,No,Rural,Single
+13096,No,Urban,Single
+13097,Yes,Semi Urban,Married
+13098,Yes,Semi Urban,Married
+13099,No,Rural,Married
+13100,No,Rural,Married
+13101,No,Urban,Married
+13102,No,Rural,Married
+13103,No,Urban,Married
+13104,No,Urban,Single
+13105,No,Urban,Single
+13106,No,Urban,Married
+13107,No,Semi Urban,Married
+13108,No,Semi Urban,Married
+13109,Yes,Urban,Married
+13110,No,Rural,Single
+13111,No,Rural,Single
+13112,No,Urban,Married
+13113,No,Urban,Single
+13114,Yes,Urban,Single
+13115,No,Urban,Married
+13116,No,Rural,Single
+13117,Yes,Semi Urban,Married
+13118,No,Rural,Married
+13119,No,Rural,Married
+13120,Yes,Urban,Married
+13121,No,Semi Urban,Single
+13122,Yes,Rural,Married
+13123,No,Semi Urban,Married
+13124,No,Urban,Married
+13125,No,Urban,Single
+13126,No,Urban,Married
+13127,No,Urban,Married
+13128,No,Semi Urban,Married
+13129,No,Rural,Single
+13130,No,Semi Urban,Single
+13131,No,Rural,Married
+13132,No,Semi Urban,Married
+13133,No,Semi Urban,Married
+13134,No,Rural,Single
+13135,No,Rural,Single
+13136,No,Rural,Married
+13137,No,Semi Urban,Married
+13138,No,Urban,Married
+13139,No,Urban,Single
+13140,No,Rural,Single
+13141,No,Urban,Married
+13142,No,Urban,Married
+13143,No,Urban,Married
+13144,Yes,Rural,Married
+13145,Yes,Urban,Married
+13146,No,Rural,Married
+13147,No,Semi Urban,Married
+13148,No,Rural,Single
+13149,No,Rural,Single
+13150,No,Rural,Married
+13151,No,Urban,Married
+13152,No,Urban,Married
+13153,Yes,Urban,Married
+13154,Yes,Rural,Married
+13155,Yes,Urban,Married
+13156,No,Rural,Married
+13157,No,Rural,Single
+13158,No,Rural,Single
+13159,Yes,Urban,Single
+13160,No,Rural,Single
+13161,No,Rural,Married
+13162,No,Rural,Single
+13163,No,Urban,Married
+13164,No,Urban,Married
+13165,No,Rural,Married
+13166,No,Urban,Married
+13167,No,Urban,Single
+13168,No,Rural,Married
+13169,No,Urban,Married
+13170,No,Semi Urban,Married
+13171,No,Rural,Married
+13172,Yes,Rural,Married
+13173,No,Rural,Single
+13174,No,Rural,Married
+13175,Yes,Rural,Single
+13176,Yes,Urban,Married
+13177,No,Rural,Married
+13178,No,Rural,Single
+13179,No,Rural,Married
+13180,No,Urban,Married
+13181,No,Semi Urban,Married
+13182,Yes,Rural,Single
+13183,No,Urban,Married
+13184,Yes,Urban,Married
+13185,No,Urban,Single
+13186,No,Semi Urban,Married
+13187,No,Rural,Married
+13188,Yes,Urban,Married
+13189,Yes,Rural,Married
+13190,Yes,Semi Urban,Married
+13191,No,Urban,Married
+13192,No,Rural,Married
+13193,No,Semi Urban,Married
+13194,No,Semi Urban,Married
+13195,No,Rural,Married
+13196,Yes,Rural,Single
+13197,No,Rural,Single
+13198,Yes,Rural,Married
+13199,No,Rural,Married
